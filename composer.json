@@ -1,0 +1,25 @@
+{
+  "name": "igorkampusano/pager",
+  "description": "A library to split results into multiple page",
+  "keywords": ["pager", "paginator", "pagination"],
+  "homepage": "https://github.com/igorkampusano/pager",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Igor Kampusano",
+      "email": "kampusano.igor@mail.ru"
+    }
+  ],
+  "support": {
+    "email": "kampusano.igor1@gmail.com"
+  },
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "IKPager\\": "src/"
+    }
+  }
+}
